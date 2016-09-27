@@ -48,13 +48,13 @@ public class fetchJokesAsyncTask extends AsyncTask {
     protected Object doInBackground(Object[] params) {
 
         HttpClient httpClient = new DefaultHttpClient();
-        HttpPost httpPost = new HttpPost("http://udacity-joke-tellar-app.appspot.com/jokeApi");
+        HttpPost httpPost = new HttpPost("http://192.168.1.2:8080/jokeApi");
 
         org.apache.http.HttpResponse httpResponse = null;
 
         try {
 
-             httpResponse = httpClient.execute(httpPost);
+            httpResponse = httpClient.execute(httpPost);
             // write response to log
             Log.d("Http Post Response:", httpResponse.toString());
 

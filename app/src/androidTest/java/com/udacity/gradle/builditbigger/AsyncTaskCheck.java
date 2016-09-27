@@ -1,14 +1,15 @@
 package com.udacity.gradle.builditbigger;
 
+import java.io.IOException;
+
+
 import android.content.Context;
 import android.test.InstrumentationTestCase;
 import android.util.Log;
 import android.util.Pair;
-
 import com.example.pavan.myapplication.backend.myApi.MyApi;
 import com.google.api.client.extensions.android.http.AndroidHttp;
 import com.google.api.client.extensions.android.json.AndroidJsonFactory;
-
 import java.io.IOException;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
@@ -40,7 +41,7 @@ public class AsyncTaskCheck extends InstrumentationTestCase {
             @Override
             public void run() {
                 context = getInstrumentation().getContext();
-               final EndpointsAsyncTask endpointsAsyncTask =  new EndpointsAsyncTask(){
+                final EndpointsAsyncTask endpointsAsyncTask =  new EndpointsAsyncTask(){
 
                     @Override
                     protected String doInBackground(Pair<Context, String>... params) {
@@ -88,4 +89,3 @@ public class AsyncTaskCheck extends InstrumentationTestCase {
         });
     }
 }
-

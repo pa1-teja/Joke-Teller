@@ -25,7 +25,6 @@ public class MainActivityFragment extends Fragment {
                              Bundle savedInstanceState) {
         View root = inflater.inflate(R.layout.fragment_main, container, false);
 
-        new EndpointsAsyncTask().execute(new Pair<Context, String>(getContext(), "pavan"));
         new fetchJokesAsyncTask().execute();
         return root;
     }
