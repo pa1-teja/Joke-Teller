@@ -50,7 +50,7 @@ public class fetchJokesAsyncTask extends AsyncTask {
 
         HttpClient httpClient = new DefaultHttpClient();
         HttpPost httpPost = new HttpPost("http://udacity-joke-tellar-app.appspot.com/jokesApi");
-//        HttpGet httpGet  = new HttpGet("http://udacity-joke-tellar-app.appspot.com/jokeApi");
+//        HttpGet httpGet  = new HttpGet("http://udacity-joke-tellar-app.appspot.com/jokesApi");
 //        HttpGet httpGet  = new HttpGet("http://192.168.1.2:8080/jokeApi");
 
         org.apache.http.HttpResponse httpResponse = null;
