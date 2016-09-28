@@ -16,18 +16,15 @@
     <servlet>
         <servlet-name>jokesServlet</servlet-name>
         <servlet-class>com.example.pavan.myapplication.backend.jokesServlet</servlet-class>
-        <init-param>
-            <param-name>jokeSource</param-name>
-            <param-value>com.example.pavan.myapplication.backend.jokesSource</param-value>
-        </init-param>
     </servlet>
 
     <servlet-mapping>
         <servlet-name>jokesServlet</servlet-name>
-        <url-pattern>/jokeApi</url-pattern>
+        <url-pattern>/jokesApi</url-pattern>
     </servlet-mapping>
 
     <welcome-file-list>
         <welcome-file>index.html</welcome-file>
     </welcome-file-list>
+
 </web-app>

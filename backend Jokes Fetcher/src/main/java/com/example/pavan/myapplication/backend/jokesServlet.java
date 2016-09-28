@@ -20,7 +20,15 @@ public class jokesServlet extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         super.doPost(req, resp);
 
-        System.out.println("servlet received request");
+        System.out.println("servlet received post request");
+        resp.getWriter().println(jokes.jokesList.get(1));
+    }
+
+    @Override
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        super.doGet(req, resp);
+
+        System.out.println("servlet received get request");
         resp.getWriter().println(jokes.jokesList.get(1));
     }
 }

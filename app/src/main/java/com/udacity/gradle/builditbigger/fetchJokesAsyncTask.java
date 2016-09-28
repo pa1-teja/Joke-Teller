@@ -10,6 +10,7 @@ import com.example.jokesdisplayingandroidlibrary.JokeActivity;
 import org.apache.http.HttpEntity;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.DefaultHttpClient;
 
@@ -48,12 +49,15 @@ public class fetchJokesAsyncTask extends AsyncTask {
     protected Object doInBackground(Object[] params) {
 
         HttpClient httpClient = new DefaultHttpClient();
-        HttpPost httpPost = new HttpPost("http://192.168.1.2:8080/jokeApi");
+        HttpPost httpPost = new HttpPost("http://udacity-joke-tellar-app.appspot.com/jokesApi");
+//        HttpGet httpGet  = new HttpGet("http://udacity-joke-tellar-app.appspot.com/jokeApi");
+//        HttpGet httpGet  = new HttpGet("http://192.168.1.2:8080/jokeApi");
 
         org.apache.http.HttpResponse httpResponse = null;
 
         try {
 
+//            httpResponse = httpClient.execute(httpGet);
             httpResponse = httpClient.execute(httpPost);
             // write response to log
             Log.d("Http Post Response:", httpResponse.toString());
