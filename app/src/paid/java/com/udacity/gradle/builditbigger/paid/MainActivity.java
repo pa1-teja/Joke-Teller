@@ -24,9 +24,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         joke_display_textView = (TextView) findViewById(R.id.joke_display_textView);
-
-
-
         joke_display_textView.setText("Press the Button below to fetch a joke");
     }
 

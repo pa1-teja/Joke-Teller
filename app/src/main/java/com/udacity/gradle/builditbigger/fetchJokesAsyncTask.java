@@ -49,16 +49,17 @@ public class fetchJokesAsyncTask extends AsyncTask {
     protected Object doInBackground(Object[] params) {
 
         HttpClient httpClient = new DefaultHttpClient();
-        HttpPost httpPost = new HttpPost("http://udacity-joke-tellar-app.appspot.com/jokesApi");
+//        HttpPost httpPost = new HttpPost("http://udacity-joke-tellar-app.appspot.com/jokesApi");
 //        HttpGet httpGet  = new HttpGet("http://udacity-joke-tellar-app.appspot.com/jokesApi");
 //        HttpGet httpGet  = new HttpGet("http://192.168.1.2:8080/jokeApi");
+        HttpPost post = new HttpPost("http://192.168.1.2:8080/jokesApi");
 
         org.apache.http.HttpResponse httpResponse = null;
 
         try {
 
 //            httpResponse = httpClient.execute(httpGet);
-            httpResponse = httpClient.execute(httpPost);
+            httpResponse = httpClient.execute(post);
             // write response to log
             Log.d("Http Post Response:", httpResponse.toString());
 
@@ -98,6 +99,9 @@ public class fetchJokesAsyncTask extends AsyncTask {
             Log.e(getClass().getSimpleName(),str);
             joke = str;
         }
+
+        if (joke.contains("</html"))
+            joke = DEFAULT_RESPONSE;
 
         intent = new Intent(context, JokeActivity.class);
         intent.putExtra("jokeString",joke);
