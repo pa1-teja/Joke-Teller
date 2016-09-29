@@ -12,6 +12,7 @@ android {
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 
     productFlavors {
@@ -48,6 +49,7 @@ dependencies {
     compile project(':javajokeslibrary')
     compile project(path: ':backend Jokes Fetcher', configuration: 'android-endpoints')
     // Unit testing dependencies
+
     androidTestCompile 'junit:junit:4.12'
     // Set this dependency if you want to use the Hamcrest matcher library
     androidTestCompile 'org.hamcrest:hamcrest-library:1.3'
