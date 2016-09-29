@@ -38,7 +38,15 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    sourceSets { free { java.srcDirs = ['src/free/java', 'src/free/java/'] } }
+    sourceSets {
+        free {
+            java.srcDirs = ['src/free/java', 'src/free/java/']
+        }
+
+        main {
+            java.srcDirs = ['src/main/java', 'src/test/java/', 'src/androidTest/java']
+        }
+    }
 }
 
 
@@ -49,6 +57,9 @@ dependencies {
     compile project(':javajokeslibrary')
     compile project(path: ':backend Jokes Fetcher', configuration: 'android-endpoints')
     // Unit testing dependencies
+
+    testCompile 'junit:junit:4.12'
+    testCompile "org.mockito:mockito-core:1.9.5"
 
     androidTestCompile 'junit:junit:4.12'
     // Set this dependency if you want to use the Hamcrest matcher library
