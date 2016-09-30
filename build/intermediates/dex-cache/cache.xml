@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\internal_impl-24.2.1_44de629c3b658f2647a5d43a89b537835ffda92b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_af0d3a5ddf194201237fd27e96acb413a68484e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_6c0de782068e6ae3bead546c397cf04ade2cdcaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-http-client-1.20.0_9d63a15f8dca619ad0e4630fc67ae0af1de2ff1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\internal_impl-24.2.1_bf7e1b2fb732b64c0c09200775951a225790835e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\com.android.support-support-core-ui-24.2.1_55ff615f90b49eeef20082fcaad6ea51dab68163.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_studio\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\support-annotations-24.2.1_9f04c477472e90763fa6303f13174a14ebbf7ba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\internal_impl-24.2.1_29e30095c9de026fbf6ae0df8d06c47152572d52.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\incremental-classes\paid\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2edb831fe3edeeaa4becab69168c7a07633704e">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\instant-run-bootstrap_85988c83706a4c43bffca81dd593796c87d15144\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_cece9f4bf6e315d885d850ffe9ee230992558d0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\com.android.support-appcompat-v7-24.2.1_16aa9fe3fb75c73271fac4ac77d02abcbda1ad0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\com.android.support-support-vector-drawable-24.2.1_5368c09b41a675ea8023673f03b42008601796d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-http-client-jackson2-1.20.0_eee263051b12519bbf3568a12d764dfd6125b94d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-v4-24.2.1_983b845ade0016a3a7cfaac0dddc0a75b484797b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\javajokeslibrary\build\libs\javajokeslibrary.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="acdf6439a61e1563e182cd83ecc78a57392f14d5">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\javajokeslibrary_8a14dbae1195d4a72d65d38b468960a6b78137f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-api-client-1.20.0_157c568968c27bbf21f2eedbe027918c3f247112\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\bundles\debug\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="17d5a29b1a01fc7bce114927349daf4deaa2aba9">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\classes_e813d3e299fdd41af975fc7ece4676839c1c18c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\internal_impl-24.2.1_34505e25012cc224493c9793e8634eccf90d305d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\jsr305-1.3.9_e6a5103b89cce951413f6adfbd53153aac0c8da4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_studio\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\support-annotations-24.2.1_9f04c477472e90763fa6303f13174a14ebbf7ba8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_6921f52b1f7619e79123106270c8db95aff881be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\internal_impl-24.2.1_1f21b2b5ac8f34cb5d3196606a3026be30c8efe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_471a7bc4a1731f844e67ffd8955d8f611ba7cbe1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\com.android.support-support-v4-24.2.1_bd7aabae7881110aa06df87b598db2a92bd4f7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\internal_impl-24.2.1_0d5b4a5e668dab8072bd8fb1081d7795670a6014.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e8371bbc3ecd8ef245ae241d7ad3a6bba58ab03a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\internal_impl-24.2.1_e658c458e1afdafffe55f27c408e9354b6bb8082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\com.android.support-support-core-utils-24.2.1_c74948784c6d0848533a398190fc238a99152bb9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_def83459522ba2354cad8b698c5c8eb6e524e673\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-multidex-1.0.1_ac23cc3d59ebb3801e34d382d38c328b03b6f62a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-oauth-client-1.20.0_ab5bfd6f489d064d81c0efa65c49efd7a5e0fb2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\internal_impl-24.2.1_d73e1b9597ec8d733c1144bbee457ac057155e42.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\internal_impl-24.2.1_b3680a678de0190e2f39ad20c5921746d63e77ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\guava-jdk5-13.0_7763489e4d88b31582623975eb69552c9ba59587\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_aa3a75e3a72d32148b4a6ec16cbdad5af579a603\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-compat-24.2.1_cb2f5e314ddd5e5695a1ca7fe59571c2dbb838a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\com.android.support-support-compat-24.2.1_d22593420b232fec7db98efbb7e288e57345fe93.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\jackson-core-2.1.3_383db527b632a13dd3f6b54d906d8917eb15f170\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\internal_impl-24.2.1_f85e29010d0e981b7153e801887293bf10f674f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\com.android.support-animated-vector-drawable-24.2.1_a91eb0c1648dbb5402b929b5049171a413b1039f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\com.android.support-support-fragment-24.2.1_c09e95f1842d36f51c084b1a1c243462a1e95eff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\incremental-runtime-classes\paid\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="111fba4f9c94b6b228c494bdd720aab13e0c9af1">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\instant-run_b474c5a1ab02d2b0bf7810fdf5e20155d7f81e63\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\jokesdisplayingandroidlibrary\build\intermediates\pre-dexed\androidTest\debug\com.android.support-support-media-compat-24.2.1_1236a47beb3df6cd8e5bae90143756209711035a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-api-client-android-1.20.0_80c3ea270cb2024bbad257659aff13d287a43bdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="C:\Users\pavan\Desktop\P4- Joke Tellar App\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-http-client-android-1.20.0_8e949cf39d36d38fe4a27ae432567f0e0eb6c8f8\classes.dex" />
+    </item>
+
+</items>
