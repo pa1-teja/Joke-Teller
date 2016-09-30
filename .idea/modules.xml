@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/P4- Joke Tellar App.iml" filepath="$PROJECT_DIR$/P4- Joke Tellar App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P4-Joke-Telling-App.iml" filepath="$PROJECT_DIR$/P4-Joke-Telling-App.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/backend Jokes Fetcher/backend Jokes Fetcher.iml" filepath="$PROJECT_DIR$/backend Jokes Fetcher/backend Jokes Fetcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/javajokeslibrary/javajokeslibrary.iml" filepath="$PROJECT_DIR$/javajokeslibrary/javajokeslibrary.iml" />
