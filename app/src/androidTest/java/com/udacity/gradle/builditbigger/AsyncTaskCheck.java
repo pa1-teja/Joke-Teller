@@ -42,59 +42,16 @@ public class AsyncTaskCheck extends InstrumentationTestCase {
     public void setUpTest(){
         latch = new CountDownLatch(1);
 
-        fetchJokesAsyncTask fetchJokesAsyncTask= new fetchJokesAsyncTask() {
+        EndpointsAsyncTask endpointsAsyncTask = new EndpointsAsyncTask(){
 
             @Override
-            protected Object doInBackground(Object[] params) {
-
-
-                HttpClient httpClient = new DefaultHttpClient();
-//        HttpPost httpPost = new HttpPost("http://udacity-joke-tellar-app.appspot.com/jokesApi");
-//        HttpGet httpGet  = new HttpGet("http://udacity-joke-tellar-app.appspot.com/jokesApi");
-//        HttpGet httpGet  = new HttpGet("http://192.168.1.2:8080/jokeApi");
-                HttpPost post = new HttpPost("http://192.168.1.2:8080/jokesApi");
-                String DEFAULT_RESPONSE = "No Joke Available";
-
-                org.apache.http.HttpResponse httpResponse = null;
-
-                try {
-
-//            httpResponse = httpClient.execute(httpGet);
-                    httpResponse = httpClient.execute(post);
-                    // write response to log
-                    Log.d("Http Post Response:", httpResponse.toString());
-
-                    HttpEntity entity = httpResponse.getEntity();
-                    InputStream inputStream = entity.getContent();
-
-                    BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
-                    String line = "";
-                    String result = "";
-                    while ((line = bufferedReader.readLine()) != null)
-                        result += line;
-
-                    inputStream.close();
-                    return result;
-
-                } catch (ClientProtocolException e) {
-                    e.printStackTrace();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-
-                return DEFAULT_RESPONSE;
-
+            protected void onPostExecute(String result) {
+                assertNotNull(result);
             }
-
-            @Override
-            protected void onPostExecute(Object o) {
-                super.onPostExecute(o);
-                assertNotNull(o);
-            }
-
         };
 
-       fetchJokesAsyncTask.execute();
+
+        endpointsAsyncTask.execute(new Pair<Context, String>(getInstrumentation().getContext(),"pavan"));
 
         try {
             latch.await(30,TimeUnit.SECONDS);

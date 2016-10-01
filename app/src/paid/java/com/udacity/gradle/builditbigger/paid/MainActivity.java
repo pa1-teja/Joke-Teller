@@ -5,13 +5,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Pair;
 import android.view.View;
-import android.widget.ProgressBar;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.udacity.gradle.builditbigger.EndpointsAsyncTask;
 import com.udacity.gradle.builditbigger.R;
-import com.udacity.gradle.builditbigger.fetchJokesAsyncTask;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -30,6 +27,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void tellJoke(View view) {
-        new fetchJokesAsyncTask(getApplicationContext()).execute();
+        new EndpointsAsyncTask().execute(new Pair<Context, String>(this,"pavan"));
     }
 }

@@ -13,7 +13,6 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
 import com.udacity.gradle.builditbigger.EndpointsAsyncTask;
 import com.udacity.gradle.builditbigger.R;
-import com.udacity.gradle.builditbigger.fetchJokesAsyncTask;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -34,6 +33,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void tellJoke(View view) {
-        new fetchJokesAsyncTask(getApplicationContext()).execute();
+        new EndpointsAsyncTask().execute(new Pair<Context, String>(this,"pavan"));
     }
 }
